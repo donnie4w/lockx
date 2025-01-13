@@ -2,11 +2,9 @@ module github.com/donnie4w/lockx
 
 go 1.22.4
 
-toolchain go1.23.2
-
 require (
 	github.com/donnie4w/gofer v0.2.0
-	github.com/donnie4w/raftx v0.0.1
+	github.com/donnie4w/raftx v0.0.2
 )
 
 require (
